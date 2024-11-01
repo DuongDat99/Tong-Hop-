@@ -54,5 +54,21 @@ Các lệnh cơ bản:
 + Mv: Di chuyển tệp (cũng được sử dụng để đổi tên tệp)
 + Rm: Xóa tệp đã cho
 + Touch: Tạo tệp trống hoặc thay đổi thời gian sửa đổi
+Hệ thống tệp và quyền:
++ Mỗi người dùng có thể sở hữu một hoặc nhiều
+thư mục / tệp
++ Mỗi người dùng có quyền truy cập khác nhau
+trong các thư mục / tệp khác nhau
++ Truy cập ngay trên thư mục / tệp
+• read (r)
+• write (w)
+• execute (x)
++ Mỗi thư mục/file có 9 bit bên phải truy cập, được chia
+thành 3 nhóm như sau:
+• chủ nhân
+• nhóm (ví dụ: những người trong cùng một nhóm dự án)
+• những người khác (những người trong phạm vi công cộng)
+
+
 
 
