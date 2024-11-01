@@ -40,3 +40,12 @@ Các lệnh cơ bản:
 + cp: Sao chép file.
 + mv: Di chuyển hoặc đổi tên file.
 + rm: Xóa file.
++ pwd: In thư mục làm việc hiện tại
++ man: Đưa ra hướng dẫn cho một lệnh
++ exit: Đăng xuất khỏi shell
++ clear Xóa tất cả đầu ra khỏi bảng điều khiển
++ Date: Xuất ngày hệ thống
++ Cal: Xuất lịch văn bản
++ Uname: In thông tin về hệ thống hiện tại
++ Mkdir: Tạo một thư mục mới
++ Rmdir: Xóa thư mục đã cho (phải trống)
