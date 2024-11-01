@@ -59,9 +59,10 @@ vào” và được xử lý bởi máy tính
 thư mục / tệp
 + Mỗi người dùng có quyền truy cập khác nhau
 trong các thư mục / tệp khác nhau
-+ Truy cập ngay trên thư mục / tệp: read (r), write (w), execute (x)
++ Truy cập ngay trên thư mục / tệp: Read (r), write (w), execute (x)
 + Mỗi thư mục/file có 9 bit bên phải truy cập, được chia
 thành 3 nhóm như sau: Chủ nhân, nhóm (ví dụ: những người trong cùng một nhóm dự án), những người khác (những người trong phạm vi công cộng).
+## Bài 5: Kiểm soát phiên bản với Git
 
 
 
