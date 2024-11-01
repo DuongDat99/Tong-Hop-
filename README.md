@@ -34,7 +34,7 @@ vào” và được xử lý bởi máy tính
 4. Giới thiệu Generative AI và ChatGPT
 ## Bài 4: Hệ điều hành Linux
 ### Làm việc với lệnh Linux
-#### Các lệnh cơ bản:
+1. Các lệnh cơ bản:
 + ls: Liệt kê file và thư mục.
 + cd: Chuyển thư mục.
 + cp: Sao chép file.
@@ -54,7 +54,7 @@ vào” và được xử lý bởi máy tính
 + Mv: Di chuyển tệp (cũng được sử dụng để đổi tên tệp)
 + Rm: Xóa tệp đã cho
 + Touch: Tạo tệp trống hoặc thay đổi thời gian sửa đổi
-#### Hệ thống tệp và quyền:
+2. Hệ thống tệp và quyền:
 + Mỗi người dùng có thể sở hữu một hoặc nhiều
 thư mục / tệp
 + Mỗi người dùng có quyền truy cập khác nhau
