@@ -2,7 +2,7 @@
 ## Bài 1: Cơ bản về máy tính và công nghệ thông tin
 ### Cơ bản về máy tính và công nghệ thông tin có các nội dung chính sau:
 1. Giới thiệu về máy tính
-Định nghĩa: Máy tính là thiết bị điện tử có khả năng xử lý dữ liệu theo các lệnh được lập trình.
++ Định nghĩa: Máy tính là thiết bị điện tử có khả năng xử lý dữ liệu theo các lệnh được lập trình.
 Chức năng: Nhập dữ liệu, xử lý dữ liệu, lưu trữ và xuất dữ liệu.
 2. Lịch sử phát triển của máy tính
 Sự phát triển từ những ngày đầu của máy tính đến công nghệ hiện đại.
