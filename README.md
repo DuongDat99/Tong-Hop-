@@ -49,3 +49,10 @@ Các lệnh cơ bản:
 + Uname: In thông tin về hệ thống hiện tại
 + Mkdir: Tạo một thư mục mới
 + Rmdir: Xóa thư mục đã cho (phải trống)
++ Cat: Hiển thị nội dung tệp
++ Cp: Sao chép tệp
++ Mv: Di chuyển tệp (cũng được sử dụng để đổi tên tệp)
++ Rm: Xóa tệp đã cho
++ Touch: Tạo tệp trống hoặc thay đổi thời gian sửa đổi
+
+
