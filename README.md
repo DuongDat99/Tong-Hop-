@@ -16,7 +16,7 @@
 1. Biểu diễn thông tin trong máy tính
 + Thông tin, dữ liệu trong thế giới thực được số hóa để có thể “nhập
 vào” và được xử lý bởi máy tính
-+ Nhị phân (Binary): Máy tính sử dụng hệ số nhị phân (0 và 1) để biểu diễn mọi loại thông tin. Mỗi bit (1 hoặc 0) là đơn vị cơ bản.
+++ Nhị phân (Binary): Máy tính sử dụng hệ số nhị phân (0 và 1) để biểu diễn mọi loại thông tin. Mỗi bit (1 hoặc 0) là đơn vị cơ bản.
 2. Hệ thống số
 + Hệ thống số
 + Định nghĩa một số được biểu diễn như thế nào thông qua các ký hiệu
