@@ -54,7 +54,7 @@ Các lệnh cơ bản:
 + Mv: Di chuyển tệp (cũng được sử dụng để đổi tên tệp)
 + Rm: Xóa tệp đã cho
 + Touch: Tạo tệp trống hoặc thay đổi thời gian sửa đổi
-Hệ thống tệp và quyền:
+ Hệ thống tệp và quyền:
 + Mỗi người dùng có thể sở hữu một hoặc nhiều
 thư mục / tệp
 + Mỗi người dùng có quyền truy cập khác nhau
